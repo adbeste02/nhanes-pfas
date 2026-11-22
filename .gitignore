@@ -1,0 +1,18 @@
+# Data -- rebuild it with src/download_data.py instead of committing it
+data/
+*.db
+*.XPT
+*.xpt
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS
+.DS_Store

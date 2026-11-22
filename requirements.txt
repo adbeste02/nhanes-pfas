@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+statsmodels>=0.14
+requests>=2.31
+matplotlib>=3.7
+jupyter>=1.0
+
+# Optional, only if you add a Bayesian component:
+# pymc>=5.0
+# arviz>=0.17
